@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/project-banner.svg" width="100%" alt="Banner PROGRAMAÇÃO ORIENTADA A OBJETOS">
+</div>
+
+<div align="center">
 
 # P R O G R A M A Ç Ã O　O R I E N T A D A　A　O B J E T O S
 
